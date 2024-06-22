@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视 HD",CCTV-1 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.120:5140
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视 HD",CCTV-2 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.195:5140
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视 HD",CCTV-3 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.244:5140
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视 HD",CCTV-4 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.196:5140
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视 HD",CCTV-5 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.245:5140
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视 HD",CCTV-5+ HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.100:5140
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视 HD",CCTV-6 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.246:5140
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视 HD",CCTV-7 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.54:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视 HD",CCTV-8 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.247:5140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视 HD",CCTV-9 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.76:5140
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视 HD",CCTV-10 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.87:5140
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视 HD",CCTV-11 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.70:5140
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视 HD",CCTV-12 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.97:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视 HD",CCTV-13 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.59:5140
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视 HD",CCTV-14 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.115:5140
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视 HD",CCTV-15 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.72:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视 HD",CCTV-16 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.126:5140
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视 HD",CCTV-17 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.67:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8.png" group-title="海南地方台 HD",海南自贸 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.119:5140
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB.png" group-title="海南地方台 HD",海南新闻 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.121:5140
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E6%96%87%E6%97%85.png" group-title="海南地方台 HD",海南文旅 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.122:5140
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF.png" group-title="海南地方台 HD",海南少儿 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.124:5140
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="海南地方台 HD",海南公共 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.14:5140
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方卫视 HD",东方卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.201:5140
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方卫视 HD",湖南卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.114:5140
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方卫视 HD",江苏卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.202:5140
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视 HD",浙江卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.206:5140
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方卫视 HD",北京卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.204:5140
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="地方卫视 HD",东南卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.66:5140
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="地方卫视 HD",天津卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.198:5140
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="地方卫视 HD",安徽卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.129:5140
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="地方卫视 HD",山东卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.208:5140
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="地方卫视 HD",广东卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.200:5140
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方卫视 HD",河北卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.210:5140
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方卫视 HD",深圳卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.203:5140
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="地方卫视 HD",湖北卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.207:5140
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="地方卫视 HD",黑龙江卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.205:5140
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="地方卫视 HD",贵州卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.197:5140
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="地方卫视 HD",辽宁卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.150:5140
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="地方卫视 HD",重庆卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.55:5140
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="地方卫视 HD",吉林卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.57:5140
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视 HD",江西卫视 HD
+http://vip.syzkgg.com:8686/rtp/239.253.64.56:5140
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+http://giwon.ddns.net:5555/udp/239.93.0.162:2192
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+http://giwon.ddns.net:5555/udp/239.93.0.118:2191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A3.png" group-title="海南地方台",海口-1
+http://vip.syzkgg.com:8686/rtp/239.253.64.6:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A3.png" group-title="海南地方台",海口-2
+http://vip.syzkgg.com:8686/rtp/239.253.64.7:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A3.png" group-title="海南地方台",海口-3
+http://vip.syzkgg.com:8686/rtp/239.253.64.8:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%89%E4%BA%9A.png" group-title="海南地方台",三亚-1
+http://vip.syzkgg.com:8686/rtp/239.253.64.152:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",儋州
+http://vip.syzkgg.com:8686/rtp/239.253.64.107:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",文昌
+http://vip.syzkgg.com:8686/rtp/239.253.64.105:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",白沙
+http://vip.syzkgg.com:8686/rtp/239.253.64.118:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",昌江
+http://vip.syzkgg.com:8686/rtp/239.253.64.108:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",五指山
+http://vip.syzkgg.com:8686/rtp/239.253.64.69:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",澄迈
+http://vip.syzkgg.com:8686/rtp/239.253.64.109:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",保亭
+http://vip.syzkgg.com:8686/rtp/239.253.64.159:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",陵水
+http://vip.syzkgg.com:8686/rtp/239.253.64.116:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",万宁
+http://vip.syzkgg.com:8686/rtp/239.253.64.167:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",临高
+http://vip.syzkgg.com:8686/rtp/239.253.64.155:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",屯昌
+http://vip.syzkgg.com:8686/rtp/239.253.64.117:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",琼海
+http://vip.syzkgg.com:8686/rtp/239.253.64.106:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",定安
+http://vip.syzkgg.com:8686/rtp/239.253.64.110:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",东方
+http://vip.syzkgg.com:8686/rtp/239.253.64.111:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",琼中
+http://vip.syzkgg.com:8686/rtp/239.253.64.165:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",乐东
+http://vip.syzkgg.com:8686/rtp/239.253.64.166:5140
